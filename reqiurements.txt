@@ -1,3 +1,4 @@
 peewee
 fastapi
 requests
+uvicorn
